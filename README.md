@@ -1,6 +1,6 @@
 ## 👋🏻 Hey there, my name is Xueying (or you can call me Daisy :) ) 
 
-### I'm physicist turned software engineer, with a passion for user-centric products
+### I'm a physicist turned software engineer, with a passion for user-centric products
 
 🧠 Software Engineering @ BrainStation '23 <br>
 
