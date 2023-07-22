@@ -9,7 +9,7 @@
 💼 Ex-Terra (YC W21) Operation Analyst<br>
 
 ### I work with: 
-![My Skills](https://skillicons.dev/icons?i=javascript,python,react,,mysql,nodejs,expresshtml,sass,css,git,github)
+![My Skills](https://skillicons.dev/icons?i=javascript,python,react,mysql,nodejs,express,html,sass,css,git,github)
 
 ### I'm interested in:
 - Health tech
