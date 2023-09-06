@@ -2,14 +2,16 @@
 
 ### I'm a physicist turned software engineer, with a passion for user-centric products
 
-🧠 Software Engineering @ BrainStation '23 <br>
-
 🎓 Physics @ Durham University '22<br>
 
 💼 Ex-Terra (YC W21) Operation Analyst<br>
 
+🧠 Software Engineering @ BrainStation '23 <br>
+
+🎨 UX Design @BrainStation '23
+
 ### I work with: 
-![My Skills](https://skillicons.dev/icons?i=javascript,python,react,mysql,nodejs,express,html,sass,css,git,github)
+![My Skills](https://skillicons.dev/icons?i=javascript,python,react,mysql,nodejs,express,html,sass,css,git,github,figma)
 
 ### I'm interested in:
 - Health tech
